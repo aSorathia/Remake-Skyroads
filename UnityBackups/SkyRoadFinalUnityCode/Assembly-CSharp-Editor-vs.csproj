@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{57E29641-D15F-8908-1607-B9938B4163DA}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_6;UNITY_4_6;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_DUCK_TYPING</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Energy Bar Toolkit NGUI (Old)\Scripts\Editor\UICreateEnergyBarWizard.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit NGUI (Old)\Scripts\Editor\UIFillProgressBarInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit NGUI (Old)\Scripts\Editor\UIRepeatProgressBarInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit NGUI (Old)\Scripts\Editor\UISequenceProgressBarInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\3DRenderers\Editor\CreateMeshBarTool.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\3DRenderers\Editor\FilledRenderer3DBuilder.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\3DRenderers\Editor\RepeatRenderer3DBuilder.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\3DRenderers\Editor\SequenceRenderer3DBuilder.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\3DRenderers\Editor\TransformRenderer3DBuilder.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EditorBase.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EnergyBar3DInspectorBase.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EnergyBarInspectorBase.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EnergyBarRendererInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EnergyBarRepeatRendererInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EnergyBarSequenceRendererInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EnergyBarTransformRendererInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\EnergyBarUtils.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\FilledRenderer3DInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\MenuItems.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\RepeatRenderer3DInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\SequenceRenderer3DInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\SimpleEventInspector.cs" />
+     <Compile Include="Assets\Energy Bar Toolkit\Scripts\Editor\TransformRenderer3DInspector.cs" />
+     <Compile Include="Assets\MobileMovieTexture\Editor\StreamingAssetsLinkDrawer.cs" />
+     <Compile Include="Assets\MobileMovieTexture\Editor\YCbCrDrawer.cs" />
+     <Compile Include="Assets\MobileMovieTexture\Editor\YCbCrPriority.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Editor\InvDatabaseInspector.cs" />
+     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Editor\InvFindItem.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\ActiveAnimationEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\BMFontReader.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\ComponentSelector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\EventDelegateDrawer.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\EventDelegateEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\FreeType.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIContextMenu.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIEditorExtensions.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIEditorTools.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIHandles.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIHelp.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIJson.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIMenu.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUISelectionTools.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUISettings.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUISnap.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\NGUITransformInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\PropertyBindingEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\PropertyReferenceDrawer.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\SpriteSelector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenAlphaEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenColorEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenFOVEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenHeightEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenOrthoSizeEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenPositionEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenRotationEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenScaleEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenTransformEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenVolumeEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\TweenWidthEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UI2DSpriteEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIAnchorEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIAtlasInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIAtlasMaker.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIBasicSpriteEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIButtonColorEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIButtonEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIButtonKeysEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIButtonMessageEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UICameraEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UICameraTool.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UICreateNewUIWizard.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UICreateWidgetWizard.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIDragObjectEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIDrawCallInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIDrawCallViewer.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIEventTriggerEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIFontInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIFontMaker.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIForwardEventsEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIGridEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIImageButtonInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIInputEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIKeyNavigationEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UILabelInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UILocalizeEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIPanelInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIPanelTool.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIPlayAnimationEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIPlayTweenEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIPopupListInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIPrefabTool.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIProgressBarEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIRectEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIRootEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIScrollBarEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIScrollViewEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UISliderEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UISnapshotPointEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UISpriteAnimationInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UISpriteInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIStretchEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UITableEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UITextureInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UITexturePacker.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIToggleInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UITweenerEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIWidgetContainerEditor.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Editor\UIWrapContentEditor.cs" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-sv\common_strings.xml" />
+     <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ja\common_strings.xml" />
+     <None Include="Assets\NGUI\ReadMe - 3.7.7.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ka-rGE\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-gl-rES\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-uk\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-uz-rUZ\common_strings.xml" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-pt\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\layout-v11\status_bar_ongoing_event_progress_bar.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-pl\common_strings.xml" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-is-rIS\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\color\wallet_primary_text_holo_light.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\proguard.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-nb\common_strings.xml" />
+     <None Include="Assets\MobileMovieTexture\Shaders\YCrCbtoRGBChromaKey.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\admob_iap_style.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ru\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (TextureClip).shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-pt-rPT\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-th\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\color\wallet_secondary_text_holo_dark.xml" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-eu-rES\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-en-rGB\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\README.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-et-rEE\common_strings.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\version.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\Font.shader" />
+     <None Include="Assets\Font\dimbo.fnt" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\values\strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\UnlitTransparentTint.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\cast_strings.xml" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-bn-rBD\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ro\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-fr-rCA\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\values-v9\styles.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\UnlitTransparentTintPre.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip).shader" />
+     <None Include="Assets\Font\fella.fnt" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\ExpandFillShaderPre.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-nl\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Example\Fonts\Boogaloo\boogaloo_glyphs.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-my-rMM\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ca\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-de\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\Font White.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ko\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-lv\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-en-rAU\common_strings.xml" />
+     <None Include="Assets\Font\FontTrendy.fnt" />
+     <None Include="Assets\MobileMovieTexture\Shaders\YCrCbtoRGBTrans.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-cs\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\wallet_attrs.xml" />
+     <None Include="Assets\Font\Digital7NOrmal.fnt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\color\common_signin_btn_text_light.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-sr\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\UnlitShaderPre.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-en-rIN\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\drawable\cast_ic_notification_connecting.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\wallet_styles.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-zh-rCN\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-iw\common_strings.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\Font\Button32.fnt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\common_colors.xml" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\layout\status_bar_ongoing_event_progress_bar.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\build.xml" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-hi\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-si-rLK\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\RadialFillShaderPre.shader" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\layout\main.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-te-rIN\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-mr-rIN\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\common_attrs.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\VerticalFillShader.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-fr\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-es\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\wallet_colors.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\drawable\common_signin_btn_icon_light.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\HorizontalFillShaderPre.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-sl\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\maps_attrs.xml" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-tl\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\admob_ads_attrs.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ne-rNP\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\RadialFillShader.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-pt-rBR\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-es-rUS\common_strings.xml" />
+     <None Include="Assets\README.txt" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\UnlitShader.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-da\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-el\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-tr\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-af\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-zh-rTW\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\wallet_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-fa\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\cast_ids.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ur-rPK\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Scripts\Sources\How To Build.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\drawable\common_signin_btn_icon_dark.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ar\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-vi\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\ExpandFillShader.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+     <None Include="Assets\Plugins\Android\GoogleMobileAdsPlugin\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-mn-rMN\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\VerticalFillShaderPre.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-lo-rLA\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Resources\Shaders\HorizontalFillShader.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-it\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-lt\common_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\README.txt" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\values-v11\styles.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-zh-rHK\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-fi\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ta-rIN\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-kn-rIN\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-bg\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ky-rKG\common_strings.xml" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-zu\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\color\common_signin_btn_text_dark.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-mk-rMK\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-sw\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\admob_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ml-rIN\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\values\main-strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-kk-rKZ\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values\auth_strings.xml" />
+     <None Include="Assets\Energy Bar Toolkit\Example\Fonts\Boogaloo\SIL OFL Font License Boogaloo.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-hu\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\res\values\styles.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\drawable\common_signin_btn_text_light.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-hy-rAM\common_strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text (TextureClip).shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-ms-rMY\common_strings.xml" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-es\wallet_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-km-rKH\common_strings.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-hr\common_strings.xml" />
+     <None Include="Assets\MobileMovieTexture\Shaders\YCrCbtoRGB.shader" />
+     <None Include="Assets\Plugins\Android\UnityOBBDownloader\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-in\common_strings.xml" />
+     <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
+     <None Include="Assets\MobileMovieTexture\Shaders\YCrCbtoRGBSplitAlpha.shader" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-am\common_strings.xml" />
+     <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\drawable\common_signin_btn_text_dark.xml" />
+     <None Include="Assets\Plugins\Android\google-play-services_lib\res\values-sk\common_strings.xml" />
+     <None Include="Assets\MobileMovieTexture\Shaders\YCbCrtoRGB.cginc" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.6/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.6/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Mad2D">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Energy Bar Toolkit/Scripts/Mad2D.dll</HintPath>
+ </Reference>
+ <Reference Include="MadCommons">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Energy Bar Toolkit/Scripts/MadCommons.dll</HintPath>
+ </Reference>
+ <Reference Include="Mad2D_Editor">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Energy Bar Toolkit/Scripts/Editor/Mad2D_Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="MadCommons_Editor">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Energy Bar Toolkit/Scripts/Editor/MadCommons_Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Plugins/Ionic.Zip.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Plugins/Mono.Data.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data.Sqlite">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data.SqliteClient">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Plugins/Mono.Data.SqliteClient.dll</HintPath>
+ </Reference>
+ <Reference Include="SQLite4Unity3d">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Plugins/SQLite4Unity3d.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Data">
+ <HintPath>C:/Users/ABDULLAH/Documents/SkyRoadFinal/Assets/Plugins/System.Data.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{80197884-552D-B0A3-9C3F-7EDFF37D1465}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-vs.csproj">
+      <Project>{3A51FB4E-AF88-9D3D-5F7A-041760FCA2CE}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

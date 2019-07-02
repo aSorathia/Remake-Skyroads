@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a85eb2f9f097c924cb84381bee7cb2e3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Flames: {fileID: 100000, guid: ac434f4bf4908c74d9bf005aa1275655, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

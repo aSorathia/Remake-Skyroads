@@ -1,0 +1,52 @@
+Create FOlder 
+->CaptureData
+->CaptureRoad
+->CaptureLevelColor
+->SamplePic
+->LevelPics
+
+1.move(Level).ahk 350 69
+2.Start PicPick
+3.SetFolder CaptureRoad
+4.Set Shortcut key Right SHift + C
+5.SetDimension 350 69
+4.Start Part1.mcr
+5.capture Road Start
+
+6.Move (e).ahk 96 82
+7.Start PicPick SetFolder CaptureData
+8.SetDimension 96 82	
+9.Start Part2.mcr
+10.capture Road Start
+
+11.move(color).ahk 10 10
+12.Start PicPick SetFolder CaptureLevelColor
+13.Set Dimention 10 10
+14.Capture Mannuall all colors
+
+15.Combine Images
+       ImageName	FolderName
+  ->LevelColor.jpg   ->CaptureLevelColor
+  ->LevelData.jpg    ->CaptureData
+  ->Road.jpg         ->CaptureRoad
+
+16.Start Part1.nb
+17.Set LevelSize
+18.Set LevelPath
+19.Execute Each Steps
+20.Start NetBeans Converter project
+21.Run Converter
+    Set Paths Correctly
+   ->DefaultPackage
+   ->Assembler->Set Rows
+(Do not close netbeams Output after finish)
+22.Start AutoDesk 3D max
+23.Start FinalTestScene
+24.Create Material With Name as Mentioned in Netbeans Output
+25.Open maxscript window and paste array from FInalData.txt Ctrl+D
+26.OpenLevelgenerator.ms Set LevelSize and run Ctrl+E
+27.Verify if level is generate corrected
+28.Make Changes if Not
+29.Create a Plane over the Level
+30.Extrude the plane
+31.Export the Level

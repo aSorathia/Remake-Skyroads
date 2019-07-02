@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 29468048c1d4650419ef28b8a9578fcd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 113
+    100002: 114
+    100004: 115
+    100006: 116
+    100008: 117
+    100010: 118
+    100012: 119
+    100014: 120
+    100016: 121
+    100018: 122
+    100020: 123
+    100022: 124
+    100024: 125
+    100026: 126
+    100028: 127
+    100030: 128
+    100032: 129
+    100034: 130
+    100036: 131
+    100038: 132
+    100040: 133
+    100042: 134
+    100044: 135
+    100046: 136
+    100048: 137
+    100050: basePlatform
+    100052: //RootNode
+    100054: nBase
+    100056: nbase
+    100058: nBase 1
+    100060: nBase 10
+    100062: nBase 100
+    100064: nBase 101
+    100066: nBase 102
+    100068: nBase 103
+    100070: nBase 104
+    100072: nBase 105
+    100074: nBase 106
+    100076: nBase 107
+    100078: nBase 108
+    100080: nBase 109
+    100082: nBase 11
+    100084: nBase 110
+    100086: nBase 111
+    100088: nBase 112
+    100090: nBase 113
+    100092: nBase 114
+    100094: nBase 115
+    100096: nBase 116
+    100098: nBase 117
+    100100: nBase 118
+    100102: nBase 119
+    100104: nBase 12
+    100106: nBase 120
+    100108: nBase 121
+    100110: nBase 122
+    100112: nBase 123
+    100114: nBase 124
+    100116: nBase 125
+    100118: nBase 126
+    100120: nBase 127
+    100122: nBase 128
+    100124: nBase 129
+    100126: nBase 13
+    100128: nBase 130
+    100130: nBase 131
+    100132: nBase 132
+    100134: nBase 133
+    100136: nBase 134
+    100138: nBase 135
+    100140: nBase 136
+    100142: nBase 137
+    100144: nBase 138
+    100146: nBase 139
+    100148: nBase 14
+    100150: nBase 140
+    100152: nBase 141
+    100154: nBase 142
+    100156: nBase 143
+    100158: nBase 144
+    100160: nBase 145
+    100162: nBase 146
+    100164: nBase 147
+    100166: nBase 148
+    100168: nBase 149
+    100170: nBase 15
+    100172: nBase 150
+    100174: nBase 151
+    100176: nBase 152
+    100178: nBase 153
+    100180: nBase 154
+    100182: nBase 155
+    100184: nBase 156
+    100186: nBase 157
+    100188: nBase 158
+    100190: nBase 159
+    100192: nBase 16
+    100194: nBase 160
+    100196: nBase 161
+    100198: nBase 162
+    100200: nBase 163
+    100202: nBase 164
+    100204: nBase 165
+    100206: nBase 166
+    100208: nBase 167
+    100210: nBase 168
+    100212: nBase 169
+    100214: nBase 17
+    100216: nBase 170
+    100218: nBase 171
+    100220: nBase 172
+    100222: nBase 173
+    100224: nBase 174
+    100226: nBase 175
+    100228: nBase 176
+    100230: nBase 177
+    100232: nBase 178
+    100234: nBase 179
+    100236: nBase 18
+    100238: nBase 180
+    100240: nBase 181
+    100242: nBase 182
+    100244: nBase 183
+    100246: nBase 184
+    100248: nBase 185
+    100250: nBase 186
+    100252: nBase 187
+    100254: nBase 188
+    100256: nBase 189
+    100258: nBase 19
+    100260: nBase 190
+    100262: nBase 191
+    100264: nBase 192
+    100266: nBase 193
+    100268: nBase 194
+    100270: nBase 195
+    100272: nBase 196
+    100274: nBase 197
+    100276: nBase 198
+    100278: nBase 199
+    100280: nBase 2
+    100282: nBase 20
+    100284: nBase 200
+    100286: nBase 201
+    100288: nBase 202
+    100290: nBase 203
+    100292: nBase 204
+    100294: nBase 205
+    100296: nBase 206
+    100298: nBase 207
+    100300: nBase 208
+    100302: nBase 209
+    100304: nBase 21
+    100306: nBase 210
+    100308: nBase 22
+    100310: nBase 23
+    100312: nBase 24
+    100314: nBase 25
+    100316: nBase 26
+    100318: nBase 27
+    100320: nBase 28
+    100322: nBase 29
+    100324: nBase 3
+    100326: nBase 30
+    100328: nBase 31
+    100330: nBase 32
+    100332: nBase 33
+    100334: nBase 34
+    100336: nBase 35
+    100338: nBase 36
+    100340: nBase 37
+    100342: nBase 38
+    100344: nBase 39
+    100346: nBase 4
+    100348: nBase 40
+    100350: nBase 41
+    100352: nBase 42
+    100354: nBase 43
+    100356: nBase 44
+    100358: nBase 45
+    100360: nBase 46
+    100362: nBase 47
+    100364: nBase 48
+    100366: nBase 49
+    100368: nBase 5
+    100370: nBase 50
+    100372: nBase 51
+    100374: nBase 52
+    100376: nBase 53
+    100378: nBase 54
+    100380: nBase 55
+    100382: nBase 56
+    100384: nBase 57
+    100386: nBase 58
+    100388: nBase 59
+    100390: nBase 6
+    100392: nBase 60
+    100394: nBase 61
+    100396: nBase 62
+    100398: nBase 63
+    100400: nBase 64
+    100402: nBase 65
+    100404: nBase 66
+    100406: nBase 67
+    100408: nBase 68
+    100410: nBase 69
+    100412: nBase 7
+    100414: nBase 70
+    100416: nBase 71
+    100418: nBase 72
+    100420: nBase 73
+    100422: nBase 74
+    100424: nBase 75
+    100426: nBase 76
+    100428: nBase 77
+    100430: nBase 78
+    100432: nBase 79
+    100434: nBase 8
+    100436: nBase 80
+    100438: nBase 81
+    100440: nBase 82
+    100442: nBase 83
+    100444: nBase 84
+    100446: nBase 85
+    100448: nBase 86
+    100450: nBase 87
+    100452: nBase 88
+    100454: nBase 89
+    100456: nBase 9
+    100458: nBase 90
+    100460: nBase 91
+    100462: nBase 92
+    100464: nBase 93
+    100466: nBase 94
+    100468: nBase 95
+    100470: nBase 96
+    100472: nBase 97
+    100474: nBase 98
+    100476: nBase 99
+    100478: Obsticles
+    400000: 113
+    400002: 114
+    400004: 115
+    400006: 116
+    400008: 117
+    400010: 118
+    400012: 119
+    400014: 120
+    400016: 121
+    400018: 122
+    400020: 123
+    400022: 124
+    400024: 125
+    400026: 126
+    400028: 127
+    400030: 128
+    400032: 129
+    400034: 130
+    400036: 131
+    400038: 132
+    400040: 133
+    400042: 134
+    400044: 135
+    400046: 136
+    400048: 137
+    400050: basePlatform
+    400052: //RootNode
+    400054: nBase
+    400056: nbase
+    400058: nBase 1
+    400060: nBase 10
+    400062: nBase 100
+    400064: nBase 101
+    400066: nBase 102
+    400068: nBase 103
+    400070: nBase 104
+    400072: nBase 105
+    400074: nBase 106
+    400076: nBase 107
+    400078: nBase 108
+    400080: nBase 109
+    400082: nBase 11
+    400084: nBase 110
+    400086: nBase 111
+    400088: nBase 112
+    400090: nBase 113
+    400092: nBase 114
+    400094: nBase 115
+    400096: nBase 116
+    400098: nBase 117
+    400100: nBase 118
+    400102: nBase 119
+    400104: nBase 12
+    400106: nBase 120
+    400108: nBase 121
+    400110: nBase 122
+    400112: nBase 123
+    400114: nBase 124
+    400116: nBase 125
+    400118: nBase 126
+    400120: nBase 127
+    400122: nBase 128
+    400124: nBase 129
+    400126: nBase 13
+    400128: nBase 130
+    400130: nBase 131
+    400132: nBase 132
+    400134: nBase 133
+    400136: nBase 134
+    400138: nBase 135
+    400140: nBase 136
+    400142: nBase 137
+    400144: nBase 138
+    400146: nBase 139
+    400148: nBase 14
+    400150: nBase 140
+    400152: nBase 141
+    400154: nBase 142
+    400156: nBase 143
+    400158: nBase 144
+    400160: nBase 145
+    400162: nBase 146
+    400164: nBase 147
+    400166: nBase 148
+    400168: nBase 149
+    400170: nBase 15
+    400172: nBase 150
+    400174: nBase 151
+    400176: nBase 152
+    400178: nBase 153
+    400180: nBase 154
+    400182: nBase 155
+    400184: nBase 156
+    400186: nBase 157
+    400188: nBase 158
+    400190: nBase 159
+    400192: nBase 16
+    400194: nBase 160
+    400196: nBase 161
+    400198: nBase 162
+    400200: nBase 163
+    400202: nBase 164
+    400204: nBase 165
+    400206: nBase 166
+    400208: nBase 167
+    400210: nBase 168
+    400212: nBase 169
+    400214: nBase 17
+    400216: nBase 170
+    400218: nBase 171
+    400220: nBase 172
+    400222: nBase 173
+    400224: nBase 174
+    400226: nBase 175
+    400228: nBase 176
+    400230: nBase 177
+    400232: nBase 178
+    400234: nBase 179
+    400236: nBase 18
+    400238: nBase 180
+    400240: nBase 181
+    400242: nBase 182
+    400244: nBase 183
+    400246: nBase 184
+    400248: nBase 185
+    400250: nBase 186
+    400252: nBase 187
+    400254: nBase 188
+    400256: nBase 189
+    400258: nBase 19
+    400260: nBase 190
+    400262: nBase 191
+    400264: nBase 192
+    400266: nBase 193
+    400268: nBase 194
+    400270: nBase 195
+    400272: nBase 196
+    400274: nBase 197
+    400276: nBase 198
+    400278: nBase 199
+    400280: nBase 2
+    400282: nBase 20
+    400284: nBase 200
+    400286: nBase 201
+    400288: nBase 202
+    400290: nBase 203
+    400292: nBase 204
+    400294: nBase 205
+    400296: nBase 206
+    400298: nBase 207
+    400300: nBase 208
+    400302: nBase 209
+    400304: nBase 21
+    400306: nBase 210
+    400308: nBase 22
+    400310: nBase 23
+    400312: nBase 24
+    400314: nBase 25
+    400316: nBase 26
+    400318: nBase 27
+    400320: nBase 28
+    400322: nBase 29
+    400324: nBase 3
+    400326: nBase 30
+    400328: nBase 31
+    400330: nBase 32
+    400332: nBase 33
+    400334: nBase 34
+    400336: nBase 35
+    400338: nBase 36
+    400340: nBase 37
+    400342: nBase 38
+    400344: nBase 39
+    400346: nBase 4
+    400348: nBase 40
+    400350: nBase 41
+    400352: nBase 42
+    400354: nBase 43
+    400356: nBase 44
+    400358: nBase 45
+    400360: nBase 46
+    400362: nBase 47
+    400364: nBase 48
+    400366: nBase 49
+    400368: nBase 5
+    400370: nBase 50
+    400372: nBase 51
+    400374: nBase 52
+    400376: nBase 53
+    400378: nBase 54
+    400380: nBase 55
+    400382: nBase 56
+    400384: nBase 57
+    400386: nBase 58
+    400388: nBase 59
+    400390: nBase 6
+    400392: nBase 60
+    400394: nBase 61
+    400396: nBase 62
+    400398: nBase 63
+    400400: nBase 64
+    400402: nBase 65
+    400404: nBase 66
+    400406: nBase 67
+    400408: nBase 68
+    400410: nBase 69
+    400412: nBase 7
+    400414: nBase 70
+    400416: nBase 71
+    400418: nBase 72
+    400420: nBase 73
+    400422: nBase 74
+    400424: nBase 75
+    400426: nBase 76
+    400428: nBase 77
+    400430: nBase 78
+    400432: nBase 79
+    400434: nBase 8
+    400436: nBase 80
+    400438: nBase 81
+    400440: nBase 82
+    400442: nBase 83
+    400444: nBase 84
+    400446: nBase 85
+    400448: nBase 86
+    400450: nBase 87
+    400452: nBase 88
+    400454: nBase 89
+    400456: nBase 9
+    400458: nBase 90
+    400460: nBase 91
+    400462: nBase 92
+    400464: nBase 93
+    400466: nBase 94
+    400468: nBase 95
+    400470: nBase 96
+    400472: nBase 97
+    400474: nBase 98
+    400476: nBase 99
+    400478: Obsticles
+    2300000: 113
+    2300002: 114
+    2300004: 115
+    2300006: 116
+    2300008: 117
+    2300010: 118
+    2300012: 119
+    2300014: 120
+    2300016: 121
+    2300018: 122
+    2300020: 123
+    2300022: 124
+    2300024: 125
+    2300026: 126
+    2300028: 127
+    2300030: 128
+    2300032: 129
+    2300034: 130
+    2300036: 131
+    2300038: 132
+    2300040: 133
+    2300042: 134
+    2300044: 135
+    2300046: 136
+    2300048: 137
+    2300050: basePlatform
+    2300052: nBase
+    2300054: nBase 1
+    2300056: nBase 10
+    2300058: nBase 100
+    2300060: nBase 101
+    2300062: nBase 102
+    2300064: nBase 103
+    2300066: nBase 104
+    2300068: nBase 105
+    2300070: nBase 106
+    2300072: nBase 107
+    2300074: nBase 108
+    2300076: nBase 109
+    2300078: nBase 11
+    2300080: nBase 110
+    2300082: nBase 111
+    2300084: nBase 112
+    2300086: nBase 113
+    2300088: nBase 114
+    2300090: nBase 115
+    2300092: nBase 116
+    2300094: nBase 117
+    2300096: nBase 118
+    2300098: nBase 119
+    2300100: nBase 12
+    2300102: nBase 120
+    2300104: nBase 121
+    2300106: nBase 122
+    2300108: nBase 123
+    2300110: nBase 124
+    2300112: nBase 125
+    2300114: nBase 126
+    2300116: nBase 127
+    2300118: nBase 128
+    2300120: nBase 129
+    2300122: nBase 13
+    2300124: nBase 130
+    2300126: nBase 131
+    2300128: nBase 132
+    2300130: nBase 133
+    2300132: nBase 134
+    2300134: nBase 135
+    2300136: nBase 136
+    2300138: nBase 137
+    2300140: nBase 138
+    2300142: nBase 139
+    2300144: nBase 14
+    2300146: nBase 140
+    2300148: nBase 141
+    2300150: nBase 142
+    2300152: nBase 143
+    2300154: nBase 144
+    2300156: nBase 145
+    2300158: nBase 146
+    2300160: nBase 147
+    2300162: nBase 148
+    2300164: nBase 149
+    2300166: nBase 15
+    2300168: nBase 150
+    2300170: nBase 151
+    2300172: nBase 152
+    2300174: nBase 153
+    2300176: nBase 154
+    2300178: nBase 155
+    2300180: nBase 156
+    2300182: nBase 157
+    2300184: nBase 158
+    2300186: nBase 159
+    2300188: nBase 16
+    2300190: nBase 160
+    2300192: nBase 161
+    2300194: nBase 162
+    2300196: nBase 163
+    2300198: nBase 164
+    2300200: nBase 165
+    2300202: nBase 166
+    2300204: nBase 167
+    2300206: nBase 168
+    2300208: nBase 169
+    2300210: nBase 17
+    2300212: nBase 170
+    2300214: nBase 171
+    2300216: nBase 172
+    2300218: nBase 173
+    2300220: nBase 174
+    2300222: nBase 175
+    2300224: nBase 176
+    2300226: nBase 177
+    2300228: nBase 178
+    2300230: nBase 179
+    2300232: nBase 18
+    2300234: nBase 180
+    2300236: nBase 181
+    2300238: nBase 182
+    2300240: nBase 183
+    2300242: nBase 184
+    2300244: nBase 185
+    2300246: nBase 186
+    2300248: nBase 187
+    2300250: nBase 188
+    2300252: nBase 189
+    2300254: nBase 19
+    2300256: nBase 190
+    2300258: nBase 191
+    2300260: nBase 192
+    2300262: nBase 193
+    2300264: nBase 194
+    2300266: nBase 195
+    2300268: nBase 196
+    2300270: nBase 197
+    2300272: nBase 198
+    2300274: nBase 199
+    2300276: nBase 2
+    2300278: nBase 20
+    2300280: nBase 200
+    2300282: nBase 201
+    2300284: nBase 202
+    2300286: nBase 203
+    2300288: nBase 204
+    2300290: nBase 205
+    2300292: nBase 206
+    2300294: nBase 207
+    2300296: nBase 208
+    2300298: nBase 209
+    2300300: nBase 21
+    2300302: nBase 210
+    2300304: nBase 22
+    2300306: nBase 23
+    2300308: nBase 24
+    2300310: nBase 25
+    2300312: nBase 26
+    2300314: nBase 27
+    2300316: nBase 28
+    2300318: nBase 29
+    2300320: nBase 3
+    2300322: nBase 30
+    2300324: nBase 31
+    2300326: nBase 32
+    2300328: nBase 33
+    2300330: nBase 34
+    2300332: nBase 35
+    2300334: nBase 36
+    2300336: nBase 37
+    2300338: nBase 38
+    2300340: nBase 39
+    2300342: nBase 4
+    2300344: nBase 40
+    2300346: nBase 41
+    2300348: nBase 42
+    2300350: nBase 43
+    2300352: nBase 44
+    2300354: nBase 45
+    2300356: nBase 46
+    2300358: nBase 47
+    2300360: nBase 48
+    2300362: nBase 49
+    2300364: nBase 5
+    2300366: nBase 50
+    2300368: nBase 51
+    2300370: nBase 52
+    2300372: nBase 53
+    2300374: nBase 54
+    2300376: nBase 55
+    2300378: nBase 56
+    2300380: nBase 57
+    2300382: nBase 58
+    2300384: nBase 59
+    2300386: nBase 6
+    2300388: nBase 60
+    2300390: nBase 61
+    2300392: nBase 62
+    2300394: nBase 63
+    2300396: nBase 64
+    2300398: nBase 65
+    2300400: nBase 66
+    2300402: nBase 67
+    2300404: nBase 68
+    2300406: nBase 69
+    2300408: nBase 7
+    2300410: nBase 70
+    2300412: nBase 71
+    2300414: nBase 72
+    2300416: nBase 73
+    2300418: nBase 74
+    2300420: nBase 75
+    2300422: nBase 76
+    2300424: nBase 77
+    2300426: nBase 78
+    2300428: nBase 79
+    2300430: nBase 8
+    2300432: nBase 80
+    2300434: nBase 81
+    2300436: nBase 82
+    2300438: nBase 83
+    2300440: nBase 84
+    2300442: nBase 85
+    2300444: nBase 86
+    2300446: nBase 87
+    2300448: nBase 88
+    2300450: nBase 89
+    2300452: nBase 9
+    2300454: nBase 90
+    2300456: nBase 91
+    2300458: nBase 92
+    2300460: nBase 93
+    2300462: nBase 94
+    2300464: nBase 95
+    2300466: nBase 96
+    2300468: nBase 97
+    2300470: nBase 98
+    2300472: nBase 99
+    3300000: 113
+    3300002: 114
+    3300004: 115
+    3300006: 116
+    3300008: 117
+    3300010: 118
+    3300012: 119
+    3300014: 120
+    3300016: 121
+    3300018: 122
+    3300020: 123
+    3300022: 124
+    3300024: 125
+    3300026: 126
+    3300028: 127
+    3300030: 128
+    3300032: 129
+    3300034: 130
+    3300036: 131
+    3300038: 132
+    3300040: 133
+    3300042: 134
+    3300044: 135
+    3300046: 136
+    3300048: 137
+    3300050: basePlatform
+    3300052: nBase
+    3300054: nBase 1
+    3300056: nBase 10
+    3300058: nBase 100
+    3300060: nBase 101
+    3300062: nBase 102
+    3300064: nBase 103
+    3300066: nBase 104
+    3300068: nBase 105
+    3300070: nBase 106
+    3300072: nBase 107
+    3300074: nBase 108
+    3300076: nBase 109
+    3300078: nBase 11
+    3300080: nBase 110
+    3300082: nBase 111
+    3300084: nBase 112
+    3300086: nBase 113
+    3300088: nBase 114
+    3300090: nBase 115
+    3300092: nBase 116
+    3300094: nBase 117
+    3300096: nBase 118
+    3300098: nBase 119
+    3300100: nBase 12
+    3300102: nBase 120
+    3300104: nBase 121
+    3300106: nBase 122
+    3300108: nBase 123
+    3300110: nBase 124
+    3300112: nBase 125
+    3300114: nBase 126
+    3300116: nBase 127
+    3300118: nBase 128
+    3300120: nBase 129
+    3300122: nBase 13
+    3300124: nBase 130
+    3300126: nBase 131
+    3300128: nBase 132
+    3300130: nBase 133
+    3300132: nBase 134
+    3300134: nBase 135
+    3300136: nBase 136
+    3300138: nBase 137
+    3300140: nBase 138
+    3300142: nBase 139
+    3300144: nBase 14
+    3300146: nBase 140
+    3300148: nBase 141
+    3300150: nBase 142
+    3300152: nBase 143
+    3300154: nBase 144
+    3300156: nBase 145
+    3300158: nBase 146
+    3300160: nBase 147
+    3300162: nBase 148
+    3300164: nBase 149
+    3300166: nBase 15
+    3300168: nBase 150
+    3300170: nBase 151
+    3300172: nBase 152
+    3300174: nBase 153
+    3300176: nBase 154
+    3300178: nBase 155
+    3300180: nBase 156
+    3300182: nBase 157
+    3300184: nBase 158
+    3300186: nBase 159
+    3300188: nBase 16
+    3300190: nBase 160
+    3300192: nBase 161
+    3300194: nBase 162
+    3300196: nBase 163
+    3300198: nBase 164
+    3300200: nBase 165
+    3300202: nBase 166
+    3300204: nBase 167
+    3300206: nBase 168
+    3300208: nBase 169
+    3300210: nBase 17
+    3300212: nBase 170
+    3300214: nBase 171
+    3300216: nBase 172
+    3300218: nBase 173
+    3300220: nBase 174
+    3300222: nBase 175
+    3300224: nBase 176
+    3300226: nBase 177
+    3300228: nBase 178
+    3300230: nBase 179
+    3300232: nBase 18
+    3300234: nBase 180
+    3300236: nBase 181
+    3300238: nBase 182
+    3300240: nBase 183
+    3300242: nBase 184
+    3300244: nBase 185
+    3300246: nBase 186
+    3300248: nBase 187
+    3300250: nBase 188
+    3300252: nBase 189
+    3300254: nBase 19
+    3300256: nBase 190
+    3300258: nBase 191
+    3300260: nBase 192
+    3300262: nBase 193
+    3300264: nBase 194
+    3300266: nBase 195
+    3300268: nBase 196
+    3300270: nBase 197
+    3300272: nBase 198
+    3300274: nBase 199
+    3300276: nBase 2
+    3300278: nBase 20
+    3300280: nBase 200
+    3300282: nBase 201
+    3300284: nBase 202
+    3300286: nBase 203
+    3300288: nBase 204
+    3300290: nBase 205
+    3300292: nBase 206
+    3300294: nBase 207
+    3300296: nBase 208
+    3300298: nBase 209
+    3300300: nBase 21
+    3300302: nBase 210
+    3300304: nBase 22
+    3300306: nBase 23
+    3300308: nBase 24
+    3300310: nBase 25
+    3300312: nBase 26
+    3300314: nBase 27
+    3300316: nBase 28
+    3300318: nBase 29
+    3300320: nBase 3
+    3300322: nBase 30
+    3300324: nBase 31
+    3300326: nBase 32
+    3300328: nBase 33
+    3300330: nBase 34
+    3300332: nBase 35
+    3300334: nBase 36
+    3300336: nBase 37
+    3300338: nBase 38
+    3300340: nBase 39
+    3300342: nBase 4
+    3300344: nBase 40
+    3300346: nBase 41
+    3300348: nBase 42
+    3300350: nBase 43
+    3300352: nBase 44
+    3300354: nBase 45
+    3300356: nBase 46
+    3300358: nBase 47
+    3300360: nBase 48
+    3300362: nBase 49
+    3300364: nBase 5
+    3300366: nBase 50
+    3300368: nBase 51
+    3300370: nBase 52
+    3300372: nBase 53
+    3300374: nBase 54
+    3300376: nBase 55
+    3300378: nBase 56
+    3300380: nBase 57
+    3300382: nBase 58
+    3300384: nBase 59
+    3300386: nBase 6
+    3300388: nBase 60
+    3300390: nBase 61
+    3300392: nBase 62
+    3300394: nBase 63
+    3300396: nBase 64
+    3300398: nBase 65
+    3300400: nBase 66
+    3300402: nBase 67
+    3300404: nBase 68
+    3300406: nBase 69
+    3300408: nBase 7
+    3300410: nBase 70
+    3300412: nBase 71
+    3300414: nBase 72
+    3300416: nBase 73
+    3300418: nBase 74
+    3300420: nBase 75
+    3300422: nBase 76
+    3300424: nBase 77
+    3300426: nBase 78
+    3300428: nBase 79
+    3300430: nBase 8
+    3300432: nBase 80
+    3300434: nBase 81
+    3300436: nBase 82
+    3300438: nBase 83
+    3300440: nBase 84
+    3300442: nBase 85
+    3300444: nBase 86
+    3300446: nBase 87
+    3300448: nBase 88
+    3300450: nBase 89
+    3300452: nBase 9
+    3300454: nBase 90
+    3300456: nBase 91
+    3300458: nBase 92
+    3300460: nBase 93
+    3300462: nBase 94
+    3300464: nBase 95
+    3300466: nBase 96
+    3300468: nBase 97
+    3300470: nBase 98
+    3300472: nBase 99
+    4300000: basePlatform
+    4300002: 133
+    4300004: 113
+    4300006: 115
+    4300008: 116
+    4300010: 114
+    4300012: 118
+    4300014: 117
+    4300016: 119
+    4300018: 121
+    4300020: 122
+    4300022: 123
+    4300024: 125
+    4300026: 126
+    4300028: 124
+    4300030: 127
+    4300032: 128
+    4300034: 130
+    4300036: 132
+    4300038: 129
+    4300040: 131
+    4300042: 135
+    4300044: 136
+    4300046: 137
+    4300048: 120
+    4300050: 134
+    4300052: nBase
+    4300054: nBase
+    4300056: nBase
+    4300058: nBase
+    4300060: nBase
+    4300062: nBase
+    4300064: nBase
+    4300066: nBase
+    4300068: nBase
+    4300070: nBase
+    4300072: nBase
+    4300074: nBase
+    4300076: nBase
+    4300078: nBase
+    4300080: nBase
+    4300082: nBase
+    4300084: nBase
+    4300086: nBase
+    4300088: nBase
+    4300090: nBase
+    4300092: nBase
+    4300094: nBase
+    4300096: nBase
+    4300098: nBase
+    4300100: nBase
+    4300102: nBase
+    4300104: nBase
+    4300106: nBase
+    4300108: nBase
+    4300110: nBase
+    4300112: nBase
+    4300114: nBase
+    4300116: nBase
+    4300118: nBase
+    4300120: nBase
+    4300122: nBase
+    4300124: nBase
+    4300126: nBase
+    4300128: nBase
+    4300130: nBase
+    4300132: nBase
+    4300134: nBase
+    4300136: nBase
+    4300138: nBase
+    4300140: nBase
+    4300142: nBase
+    4300144: nBase
+    4300146: nBase
+    4300148: nBase
+    4300150: nBase
+    4300152: nBase
+    4300154: nBase
+    4300156: nBase
+    4300158: nBase
+    4300160: nBase
+    4300162: nBase
+    4300164: nBase
+    4300166: nBase
+    4300168: nBase
+    4300170: nBase
+    4300172: nBase
+    4300174: nBase
+    4300176: nBase
+    4300178: nBase
+    4300180: nBase
+    4300182: nBase
+    4300184: nBase
+    4300186: nBase
+    4300188: nBase
+    4300190: nBase
+    4300192: nBase
+    4300194: nBase
+    4300196: nBase
+    4300198: nBase
+    4300200: nBase
+    4300202: nBase
+    4300204: nBase
+    4300206: nBase
+    4300208: nBase
+    4300210: nBase
+    4300212: nBase
+    4300214: nBase
+    4300216: nBase
+    4300218: nBase
+    4300220: nBase
+    4300222: nBase
+    4300224: nBase
+    4300226: nBase
+    4300228: nBase
+    4300230: nBase
+    4300232: nBase
+    4300234: nBase
+    4300236: nBase
+    4300238: nBase
+    4300240: nBase
+    4300242: nBase
+    4300244: nBase
+    4300246: nBase
+    4300248: nBase
+    4300250: nBase
+    4300252: nBase
+    4300254: nBase
+    4300256: nBase
+    4300258: nBase
+    4300260: nBase
+    4300262: nBase
+    4300264: nBase
+    4300266: nBase
+    4300268: nBase
+    4300270: nBase
+    4300272: nBase
+    4300274: nBase
+    4300276: nBase
+    4300278: nBase
+    4300280: nBase
+    4300282: nBase
+    4300284: nBase
+    4300286: nBase
+    4300288: nBase
+    4300290: nBase
+    4300292: nBase
+    4300294: nBase
+    4300296: nBase
+    4300298: nBase
+    4300300: nBase
+    4300302: nBase
+    4300304: nBase
+    4300306: nBase
+    4300308: nBase
+    4300310: nBase
+    4300312: nBase
+    4300314: nBase
+    4300316: nBase
+    4300318: nBase
+    4300320: nBase
+    4300322: nBase
+    4300324: nBase
+    4300326: nBase
+    4300328: nBase
+    4300330: nBase
+    4300332: nBase
+    4300334: nBase
+    4300336: nBase
+    4300338: nBase
+    4300340: nBase
+    4300342: nBase
+    4300344: nBase
+    4300346: nBase
+    4300348: nBase
+    4300350: nBase
+    4300352: nBase
+    4300354: nBase
+    4300356: nBase
+    4300358: nBase
+    4300360: nBase
+    4300362: nBase
+    4300364: nBase
+    4300366: nBase
+    4300368: nBase
+    4300370: nBase
+    4300372: nBase
+    4300374: nBase
+    4300376: nBase
+    4300378: nBase
+    4300380: nBase
+    4300382: nBase
+    4300384: nBase
+    4300386: nBase
+    4300388: nBase
+    4300390: nBase
+    4300392: nBase
+    4300394: nBase
+    4300396: nBase
+    4300398: nBase
+    4300400: nBase
+    4300402: nBase
+    4300404: nBase
+    4300406: nBase
+    4300408: nBase
+    4300410: nBase
+    4300412: nBase
+    4300414: nBase
+    4300416: nBase
+    4300418: nBase
+    4300420: nBase
+    4300422: nBase
+    4300424: nBase
+    4300426: nBase
+    4300428: nBase
+    4300430: nBase
+    4300432: nBase
+    4300434: nBase
+    4300436: nBase
+    4300438: nBase
+    4300440: nBase
+    4300442: nBase
+    4300444: nBase
+    4300446: nBase
+    4300448: nBase
+    4300450: nBase
+    4300452: nBase
+    4300454: nBase
+    4300456: nBase
+    4300458: nBase
+    4300460: nBase
+    4300462: nBase
+    4300464: nBase
+    4300466: nBase
+    4300468: nBase
+    4300470: nBase
+    4300472: nBase
+    6400000: 113
+    6400002: 114
+    6400004: 115
+    6400006: 116
+    6400008: 117
+    6400010: 118
+    6400012: 119
+    6400014: 120
+    6400016: 121
+    6400018: 122
+    6400020: 123
+    6400022: 124
+    6400024: 125
+    6400026: 126
+    6400028: 127
+    6400030: 128
+    6400032: 129
+    6400034: 130
+    6400036: 131
+    6400038: 132
+    6400040: 133
+    6400042: 134
+    6400044: 135
+    6400046: 136
+    6400048: 137
+    6400050: basePlatform
+    6400052: nBase
+    6400054: nBase 1
+    6400056: nBase 10
+    6400058: nBase 100
+    6400060: nBase 101
+    6400062: nBase 102
+    6400064: nBase 103
+    6400066: nBase 104
+    6400068: nBase 105
+    6400070: nBase 106
+    6400072: nBase 107
+    6400074: nBase 108
+    6400076: nBase 109
+    6400078: nBase 11
+    6400080: nBase 110
+    6400082: nBase 111
+    6400084: nBase 112
+    6400086: nBase 113
+    6400088: nBase 114
+    6400090: nBase 115
+    6400092: nBase 116
+    6400094: nBase 117
+    6400096: nBase 118
+    6400098: nBase 119
+    6400100: nBase 12
+    6400102: nBase 120
+    6400104: nBase 121
+    6400106: nBase 122
+    6400108: nBase 123
+    6400110: nBase 124
+    6400112: nBase 125
+    6400114: nBase 126
+    6400116: nBase 127
+    6400118: nBase 128
+    6400120: nBase 129
+    6400122: nBase 13
+    6400124: nBase 130
+    6400126: nBase 131
+    6400128: nBase 132
+    6400130: nBase 133
+    6400132: nBase 134
+    6400134: nBase 135
+    6400136: nBase 136
+    6400138: nBase 137
+    6400140: nBase 138
+    6400142: nBase 139
+    6400144: nBase 14
+    6400146: nBase 140
+    6400148: nBase 141
+    6400150: nBase 142
+    6400152: nBase 143
+    6400154: nBase 144
+    6400156: nBase 145
+    6400158: nBase 146
+    6400160: nBase 147
+    6400162: nBase 148
+    6400164: nBase 149
+    6400166: nBase 15
+    6400168: nBase 150
+    6400170: nBase 151
+    6400172: nBase 152
+    6400174: nBase 153
+    6400176: nBase 154
+    6400178: nBase 155
+    6400180: nBase 156
+    6400182: nBase 157
+    6400184: nBase 158
+    6400186: nBase 159
+    6400188: nBase 16
+    6400190: nBase 160
+    6400192: nBase 161
+    6400194: nBase 162
+    6400196: nBase 163
+    6400198: nBase 164
+    6400200: nBase 165
+    6400202: nBase 166
+    6400204: nBase 167
+    6400206: nBase 168
+    6400208: nBase 169
+    6400210: nBase 17
+    6400212: nBase 170
+    6400214: nBase 171
+    6400216: nBase 172
+    6400218: nBase 173
+    6400220: nBase 174
+    6400222: nBase 175
+    6400224: nBase 176
+    6400226: nBase 177
+    6400228: nBase 178
+    6400230: nBase 179
+    6400232: nBase 18
+    6400234: nBase 180
+    6400236: nBase 181
+    6400238: nBase 182
+    6400240: nBase 183
+    6400242: nBase 184
+    6400244: nBase 185
+    6400246: nBase 186
+    6400248: nBase 187
+    6400250: nBase 188
+    6400252: nBase 189
+    6400254: nBase 19
+    6400256: nBase 190
+    6400258: nBase 191
+    6400260: nBase 192
+    6400262: nBase 193
+    6400264: nBase 194
+    6400266: nBase 195
+    6400268: nBase 196
+    6400270: nBase 197
+    6400272: nBase 198
+    6400274: nBase 199
+    6400276: nBase 2
+    6400278: nBase 20
+    6400280: nBase 200
+    6400282: nBase 201
+    6400284: nBase 202
+    6400286: nBase 203
+    6400288: nBase 204
+    6400290: nBase 205
+    6400292: nBase 206
+    6400294: nBase 207
+    6400296: nBase 208
+    6400298: nBase 209
+    6400300: nBase 21
+    6400302: nBase 210
+    6400304: nBase 22
+    6400306: nBase 23
+    6400308: nBase 24
+    6400310: nBase 25
+    6400312: nBase 26
+    6400314: nBase 27
+    6400316: nBase 28
+    6400318: nBase 29
+    6400320: nBase 3
+    6400322: nBase 30
+    6400324: nBase 31
+    6400326: nBase 32
+    6400328: nBase 33
+    6400330: nBase 34
+    6400332: nBase 35
+    6400334: nBase 36
+    6400336: nBase 37
+    6400338: nBase 38
+    6400340: nBase 39
+    6400342: nBase 4
+    6400344: nBase 40
+    6400346: nBase 41
+    6400348: nBase 42
+    6400350: nBase 43
+    6400352: nBase 44
+    6400354: nBase 45
+    6400356: nBase 46
+    6400358: nBase 47
+    6400360: nBase 48
+    6400362: nBase 49
+    6400364: nBase 5
+    6400366: nBase 50
+    6400368: nBase 51
+    6400370: nBase 52
+    6400372: nBase 53
+    6400374: nBase 54
+    6400376: nBase 55
+    6400378: nBase 56
+    6400380: nBase 57
+    6400382: nBase 58
+    6400384: nBase 59
+    6400386: nBase 6
+    6400388: nBase 60
+    6400390: nBase 61
+    6400392: nBase 62
+    6400394: nBase 63
+    6400396: nBase 64
+    6400398: nBase 65
+    6400400: nBase 66
+    6400402: nBase 67
+    6400404: nBase 68
+    6400406: nBase 69
+    6400408: nBase 7
+    6400410: nBase 70
+    6400412: nBase 71
+    6400414: nBase 72
+    6400416: nBase 73
+    6400418: nBase 74
+    6400420: nBase 75
+    6400422: nBase 76
+    6400424: nBase 77
+    6400426: nBase 78
+    6400428: nBase 79
+    6400430: nBase 8
+    6400432: nBase 80
+    6400434: nBase 81
+    6400436: nBase 82
+    6400438: nBase 83
+    6400440: nBase 84
+    6400442: nBase 85
+    6400444: nBase 86
+    6400446: nBase 87
+    6400448: nBase 88
+    6400450: nBase 89
+    6400452: nBase 9
+    6400454: nBase 90
+    6400456: nBase 91
+    6400458: nBase 92
+    6400460: nBase 93
+    6400462: nBase 94
+    6400464: nBase 95
+    6400466: nBase 96
+    6400468: nBase 97
+    6400470: nBase 98
+    6400472: nBase 99
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

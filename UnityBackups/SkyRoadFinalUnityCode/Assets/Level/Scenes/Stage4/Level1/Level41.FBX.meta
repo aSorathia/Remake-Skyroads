@@ -1,0 +1,1698 @@
+fileFormatVersion: 2
+guid: cfc9a689a003d174c80290cc6802abb1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 113
+    100002: 114
+    100004: 115
+    100006: 116
+    100008: 117
+    100010: 118
+    100012: 119
+    100014: 120
+    100016: 121
+    100018: 122
+    100020: 123
+    100022: 124
+    100024: 125
+    100026: 126
+    100028: 127
+    100030: 128
+    100032: 129
+    100034: 130
+    100036: 131
+    100038: 132
+    100040: 133
+    100042: 134
+    100044: 135
+    100046: 136
+    100048: 137
+    100050: 138
+    100052: 139
+    100054: 140
+    100056: 141
+    100058: 142
+    100060: 143
+    100062: 144
+    100064: 145
+    100066: 146
+    100068: 147
+    100070: 148
+    100072: 149
+    100074: 150
+    100076: 151
+    100078: 152
+    100080: 153
+    100082: 154
+    100084: 155
+    100086: 156
+    100088: 157
+    100090: 158
+    100092: 159
+    100094: 160
+    100096: 161
+    100098: 162
+    100100: 163
+    100102: 164
+    100104: 165
+    100106: 166
+    100108: 167
+    100110: 168
+    100112: 169
+    100114: 170
+    100116: 171
+    100118: 172
+    100120: basePlatform
+    100122: Bk_Boost
+    100124: Bk_Boost 1
+    100126: Bk_Boost 2
+    100128: Bk_Boost 3
+    100130: Bk_Boost 4
+    100132: Bk_Boost 5
+    100134: Bk_Boost 6
+    100136: Bk_burning
+    100138: Bk_burning 1
+    100140: Bk_burning 10
+    100142: Bk_burning 11
+    100144: Bk_burning 12
+    100146: Bk_burning 13
+    100148: Bk_burning 14
+    100150: Bk_burning 15
+    100152: Bk_burning 16
+    100154: Bk_burning 17
+    100156: Bk_burning 18
+    100158: Bk_burning 19
+    100160: Bk_burning 2
+    100162: Bk_burning 20
+    100164: Bk_burning 21
+    100166: Bk_burning 22
+    100168: Bk_burning 23
+    100170: Bk_burning 24
+    100172: Bk_burning 25
+    100174: Bk_burning 26
+    100176: Bk_burning 27
+    100178: Bk_burning 28
+    100180: Bk_burning 29
+    100182: Bk_burning 3
+    100184: Bk_burning 30
+    100186: Bk_burning 31
+    100188: Bk_burning 32
+    100190: Bk_burning 4
+    100192: Bk_burning 5
+    100194: Bk_burning 6
+    100196: Bk_burning 7
+    100198: Bk_burning 8
+    100200: Bk_burning 9
+    100202: Bk_Oxygen
+    100204: Bk_Oxygen 1
+    100206: Bk_Oxygen 10
+    100208: Bk_Oxygen 11
+    100210: Bk_Oxygen 12
+    100212: Bk_Oxygen 13
+    100214: Bk_Oxygen 14
+    100216: Bk_Oxygen 15
+    100218: Bk_Oxygen 2
+    100220: Bk_Oxygen 3
+    100222: Bk_Oxygen 4
+    100224: Bk_Oxygen 5
+    100226: Bk_Oxygen 6
+    100228: Bk_Oxygen 7
+    100230: Bk_Oxygen 8
+    100232: Bk_Oxygen 9
+    100234: //RootNode
+    100236: nBase
+    100238: nBase 1
+    100240: nBase 10
+    100242: nBase 100
+    100244: nBase 101
+    100246: nBase 102
+    100248: nBase 103
+    100250: nBase 104
+    100252: nBase 105
+    100254: nBase 106
+    100256: nBase 107
+    100258: nBase 108
+    100260: nBase 109
+    100262: nBase 11
+    100264: nBase 110
+    100266: nBase 111
+    100268: nBase 112
+    100270: nBase 113
+    100272: nBase 114
+    100274: nBase 115
+    100276: nBase 116
+    100278: nBase 117
+    100280: nBase 118
+    100282: nBase 119
+    100284: nBase 12
+    100286: nBase 120
+    100288: nBase 121
+    100290: nBase 122
+    100292: nBase 123
+    100294: nBase 124
+    100296: nBase 125
+    100298: nBase 126
+    100300: nBase 127
+    100302: nBase 128
+    100304: nBase 129
+    100306: nBase 13
+    100308: nBase 130
+    100310: nBase 131
+    100312: nBase 132
+    100314: nBase 133
+    100316: nBase 134
+    100318: nBase 135
+    100320: nBase 136
+    100322: nBase 137
+    100324: nBase 138
+    100326: nBase 139
+    100328: nBase 14
+    100330: nBase 140
+    100332: nBase 141
+    100334: nBase 142
+    100336: nBase 143
+    100338: nBase 144
+    100340: nBase 145
+    100342: nBase 146
+    100344: nBase 147
+    100346: nBase 148
+    100348: nBase 149
+    100350: nBase 15
+    100352: nBase 150
+    100354: nBase 151
+    100356: nBase 152
+    100358: nBase 153
+    100360: nBase 154
+    100362: nBase 155
+    100364: nBase 16
+    100366: nBase 17
+    100368: nBase 18
+    100370: nBase 19
+    100372: nBase 2
+    100374: nBase 20
+    100376: nBase 21
+    100378: nBase 22
+    100380: nBase 23
+    100382: nBase 24
+    100384: nBase 25
+    100386: nBase 26
+    100388: nBase 27
+    100390: nBase 28
+    100392: nBase 29
+    100394: nBase 3
+    100396: nBase 30
+    100398: nBase 31
+    100400: nBase 32
+    100402: nBase 33
+    100404: nBase 34
+    100406: nBase 35
+    100408: nBase 36
+    100410: nBase 37
+    100412: nBase 38
+    100414: nBase 39
+    100416: nBase 4
+    100418: nBase 40
+    100420: nBase 41
+    100422: nBase 42
+    100424: nBase 43
+    100426: nBase 44
+    100428: nBase 45
+    100430: nBase 46
+    100432: nBase 47
+    100434: nBase 48
+    100436: nBase 49
+    100438: nBase 5
+    100440: nBase 50
+    100442: nBase 51
+    100444: nBase 52
+    100446: nBase 53
+    100448: nBase 54
+    100450: nBase 55
+    100452: nBase 56
+    100454: nBase 57
+    100456: nBase 58
+    100458: nBase 59
+    100460: nBase 6
+    100462: nBase 60
+    100464: nBase 61
+    100466: nBase 62
+    100468: nBase 63
+    100470: nBase 64
+    100472: nBase 65
+    100474: nBase 66
+    100476: nBase 67
+    100478: nBase 68
+    100480: nBase 69
+    100482: nBase 7
+    100484: nBase 70
+    100486: nBase 71
+    100488: nBase 72
+    100490: nBase 73
+    100492: nBase 74
+    100494: nBase 75
+    100496: nBase 76
+    100498: nBase 77
+    100500: nBase 78
+    100502: nBase 79
+    100504: nBase 8
+    100506: nBase 80
+    100508: nBase 81
+    100510: nBase 82
+    100512: nBase 83
+    100514: nBase 84
+    100516: nBase 85
+    100518: nBase 86
+    100520: nBase 87
+    100522: nBase 88
+    100524: nBase 89
+    100526: nBase 9
+    100528: nBase 90
+    100530: nBase 91
+    100532: nBase 92
+    100534: nBase 93
+    100536: nBase 94
+    100538: nBase 95
+    100540: nBase 96
+    100542: nBase 97
+    100544: nBase 98
+    100546: nBase 99
+    100548: Obsticles
+    400000: 113
+    400002: 114
+    400004: 115
+    400006: 116
+    400008: 117
+    400010: 118
+    400012: 119
+    400014: 120
+    400016: 121
+    400018: 122
+    400020: 123
+    400022: 124
+    400024: 125
+    400026: 126
+    400028: 127
+    400030: 128
+    400032: 129
+    400034: 130
+    400036: 131
+    400038: 132
+    400040: 133
+    400042: 134
+    400044: 135
+    400046: 136
+    400048: 137
+    400050: 138
+    400052: 139
+    400054: 140
+    400056: 141
+    400058: 142
+    400060: 143
+    400062: 144
+    400064: 145
+    400066: 146
+    400068: 147
+    400070: 148
+    400072: 149
+    400074: 150
+    400076: 151
+    400078: 152
+    400080: 153
+    400082: 154
+    400084: 155
+    400086: 156
+    400088: 157
+    400090: 158
+    400092: 159
+    400094: 160
+    400096: 161
+    400098: 162
+    400100: 163
+    400102: 164
+    400104: 165
+    400106: 166
+    400108: 167
+    400110: 168
+    400112: 169
+    400114: 170
+    400116: 171
+    400118: 172
+    400120: basePlatform
+    400122: Bk_Boost
+    400124: Bk_Boost 1
+    400126: Bk_Boost 2
+    400128: Bk_Boost 3
+    400130: Bk_Boost 4
+    400132: Bk_Boost 5
+    400134: Bk_Boost 6
+    400136: Bk_burning
+    400138: Bk_burning 1
+    400140: Bk_burning 10
+    400142: Bk_burning 11
+    400144: Bk_burning 12
+    400146: Bk_burning 13
+    400148: Bk_burning 14
+    400150: Bk_burning 15
+    400152: Bk_burning 16
+    400154: Bk_burning 17
+    400156: Bk_burning 18
+    400158: Bk_burning 19
+    400160: Bk_burning 2
+    400162: Bk_burning 20
+    400164: Bk_burning 21
+    400166: Bk_burning 22
+    400168: Bk_burning 23
+    400170: Bk_burning 24
+    400172: Bk_burning 25
+    400174: Bk_burning 26
+    400176: Bk_burning 27
+    400178: Bk_burning 28
+    400180: Bk_burning 29
+    400182: Bk_burning 3
+    400184: Bk_burning 30
+    400186: Bk_burning 31
+    400188: Bk_burning 32
+    400190: Bk_burning 4
+    400192: Bk_burning 5
+    400194: Bk_burning 6
+    400196: Bk_burning 7
+    400198: Bk_burning 8
+    400200: Bk_burning 9
+    400202: Bk_Oxygen
+    400204: Bk_Oxygen 1
+    400206: Bk_Oxygen 10
+    400208: Bk_Oxygen 11
+    400210: Bk_Oxygen 12
+    400212: Bk_Oxygen 13
+    400214: Bk_Oxygen 14
+    400216: Bk_Oxygen 15
+    400218: Bk_Oxygen 2
+    400220: Bk_Oxygen 3
+    400222: Bk_Oxygen 4
+    400224: Bk_Oxygen 5
+    400226: Bk_Oxygen 6
+    400228: Bk_Oxygen 7
+    400230: Bk_Oxygen 8
+    400232: Bk_Oxygen 9
+    400234: //RootNode
+    400236: nBase
+    400238: nBase 1
+    400240: nBase 10
+    400242: nBase 100
+    400244: nBase 101
+    400246: nBase 102
+    400248: nBase 103
+    400250: nBase 104
+    400252: nBase 105
+    400254: nBase 106
+    400256: nBase 107
+    400258: nBase 108
+    400260: nBase 109
+    400262: nBase 11
+    400264: nBase 110
+    400266: nBase 111
+    400268: nBase 112
+    400270: nBase 113
+    400272: nBase 114
+    400274: nBase 115
+    400276: nBase 116
+    400278: nBase 117
+    400280: nBase 118
+    400282: nBase 119
+    400284: nBase 12
+    400286: nBase 120
+    400288: nBase 121
+    400290: nBase 122
+    400292: nBase 123
+    400294: nBase 124
+    400296: nBase 125
+    400298: nBase 126
+    400300: nBase 127
+    400302: nBase 128
+    400304: nBase 129
+    400306: nBase 13
+    400308: nBase 130
+    400310: nBase 131
+    400312: nBase 132
+    400314: nBase 133
+    400316: nBase 134
+    400318: nBase 135
+    400320: nBase 136
+    400322: nBase 137
+    400324: nBase 138
+    400326: nBase 139
+    400328: nBase 14
+    400330: nBase 140
+    400332: nBase 141
+    400334: nBase 142
+    400336: nBase 143
+    400338: nBase 144
+    400340: nBase 145
+    400342: nBase 146
+    400344: nBase 147
+    400346: nBase 148
+    400348: nBase 149
+    400350: nBase 15
+    400352: nBase 150
+    400354: nBase 151
+    400356: nBase 152
+    400358: nBase 153
+    400360: nBase 154
+    400362: nBase 155
+    400364: nBase 16
+    400366: nBase 17
+    400368: nBase 18
+    400370: nBase 19
+    400372: nBase 2
+    400374: nBase 20
+    400376: nBase 21
+    400378: nBase 22
+    400380: nBase 23
+    400382: nBase 24
+    400384: nBase 25
+    400386: nBase 26
+    400388: nBase 27
+    400390: nBase 28
+    400392: nBase 29
+    400394: nBase 3
+    400396: nBase 30
+    400398: nBase 31
+    400400: nBase 32
+    400402: nBase 33
+    400404: nBase 34
+    400406: nBase 35
+    400408: nBase 36
+    400410: nBase 37
+    400412: nBase 38
+    400414: nBase 39
+    400416: nBase 4
+    400418: nBase 40
+    400420: nBase 41
+    400422: nBase 42
+    400424: nBase 43
+    400426: nBase 44
+    400428: nBase 45
+    400430: nBase 46
+    400432: nBase 47
+    400434: nBase 48
+    400436: nBase 49
+    400438: nBase 5
+    400440: nBase 50
+    400442: nBase 51
+    400444: nBase 52
+    400446: nBase 53
+    400448: nBase 54
+    400450: nBase 55
+    400452: nBase 56
+    400454: nBase 57
+    400456: nBase 58
+    400458: nBase 59
+    400460: nBase 6
+    400462: nBase 60
+    400464: nBase 61
+    400466: nBase 62
+    400468: nBase 63
+    400470: nBase 64
+    400472: nBase 65
+    400474: nBase 66
+    400476: nBase 67
+    400478: nBase 68
+    400480: nBase 69
+    400482: nBase 7
+    400484: nBase 70
+    400486: nBase 71
+    400488: nBase 72
+    400490: nBase 73
+    400492: nBase 74
+    400494: nBase 75
+    400496: nBase 76
+    400498: nBase 77
+    400500: nBase 78
+    400502: nBase 79
+    400504: nBase 8
+    400506: nBase 80
+    400508: nBase 81
+    400510: nBase 82
+    400512: nBase 83
+    400514: nBase 84
+    400516: nBase 85
+    400518: nBase 86
+    400520: nBase 87
+    400522: nBase 88
+    400524: nBase 89
+    400526: nBase 9
+    400528: nBase 90
+    400530: nBase 91
+    400532: nBase 92
+    400534: nBase 93
+    400536: nBase 94
+    400538: nBase 95
+    400540: nBase 96
+    400542: nBase 97
+    400544: nBase 98
+    400546: nBase 99
+    400548: Obsticles
+    2300000: 113
+    2300002: 114
+    2300004: 115
+    2300006: 116
+    2300008: 117
+    2300010: 118
+    2300012: 119
+    2300014: 120
+    2300016: 121
+    2300018: 122
+    2300020: 123
+    2300022: 124
+    2300024: 125
+    2300026: 126
+    2300028: 127
+    2300030: 128
+    2300032: 129
+    2300034: 130
+    2300036: 131
+    2300038: 132
+    2300040: 133
+    2300042: 134
+    2300044: 135
+    2300046: 136
+    2300048: 137
+    2300050: 138
+    2300052: 139
+    2300054: 140
+    2300056: 141
+    2300058: 142
+    2300060: 143
+    2300062: 144
+    2300064: 145
+    2300066: 146
+    2300068: 147
+    2300070: 148
+    2300072: 149
+    2300074: 150
+    2300076: 151
+    2300078: 152
+    2300080: 153
+    2300082: 154
+    2300084: 155
+    2300086: 156
+    2300088: 157
+    2300090: 158
+    2300092: 159
+    2300094: 160
+    2300096: 161
+    2300098: 162
+    2300100: 163
+    2300102: 164
+    2300104: 165
+    2300106: 166
+    2300108: 167
+    2300110: 168
+    2300112: 169
+    2300114: 170
+    2300116: 171
+    2300118: 172
+    2300120: basePlatform
+    2300122: Bk_Boost
+    2300124: Bk_Boost 1
+    2300126: Bk_Boost 2
+    2300128: Bk_Boost 3
+    2300130: Bk_Boost 4
+    2300132: Bk_Boost 5
+    2300134: Bk_Boost 6
+    2300136: Bk_burning
+    2300138: Bk_burning 1
+    2300140: Bk_burning 10
+    2300142: Bk_burning 11
+    2300144: Bk_burning 12
+    2300146: Bk_burning 13
+    2300148: Bk_burning 14
+    2300150: Bk_burning 15
+    2300152: Bk_burning 16
+    2300154: Bk_burning 17
+    2300156: Bk_burning 18
+    2300158: Bk_burning 19
+    2300160: Bk_burning 2
+    2300162: Bk_burning 20
+    2300164: Bk_burning 21
+    2300166: Bk_burning 22
+    2300168: Bk_burning 23
+    2300170: Bk_burning 24
+    2300172: Bk_burning 25
+    2300174: Bk_burning 26
+    2300176: Bk_burning 27
+    2300178: Bk_burning 28
+    2300180: Bk_burning 29
+    2300182: Bk_burning 3
+    2300184: Bk_burning 30
+    2300186: Bk_burning 31
+    2300188: Bk_burning 32
+    2300190: Bk_burning 4
+    2300192: Bk_burning 5
+    2300194: Bk_burning 6
+    2300196: Bk_burning 7
+    2300198: Bk_burning 8
+    2300200: Bk_burning 9
+    2300202: Bk_Oxygen
+    2300204: Bk_Oxygen 1
+    2300206: Bk_Oxygen 10
+    2300208: Bk_Oxygen 11
+    2300210: Bk_Oxygen 12
+    2300212: Bk_Oxygen 13
+    2300214: Bk_Oxygen 14
+    2300216: Bk_Oxygen 15
+    2300218: Bk_Oxygen 2
+    2300220: Bk_Oxygen 3
+    2300222: Bk_Oxygen 4
+    2300224: Bk_Oxygen 5
+    2300226: Bk_Oxygen 6
+    2300228: Bk_Oxygen 7
+    2300230: Bk_Oxygen 8
+    2300232: Bk_Oxygen 9
+    2300234: nBase 1
+    2300236: nBase 10
+    2300238: nBase 100
+    2300240: nBase 101
+    2300242: nBase 102
+    2300244: nBase 103
+    2300246: nBase 104
+    2300248: nBase 105
+    2300250: nBase 106
+    2300252: nBase 107
+    2300254: nBase 108
+    2300256: nBase 109
+    2300258: nBase 11
+    2300260: nBase 110
+    2300262: nBase 111
+    2300264: nBase 112
+    2300266: nBase 113
+    2300268: nBase 114
+    2300270: nBase 115
+    2300272: nBase 116
+    2300274: nBase 117
+    2300276: nBase 118
+    2300278: nBase 119
+    2300280: nBase 12
+    2300282: nBase 120
+    2300284: nBase 121
+    2300286: nBase 122
+    2300288: nBase 123
+    2300290: nBase 124
+    2300292: nBase 125
+    2300294: nBase 126
+    2300296: nBase 127
+    2300298: nBase 128
+    2300300: nBase 129
+    2300302: nBase 13
+    2300304: nBase 130
+    2300306: nBase 131
+    2300308: nBase 132
+    2300310: nBase 133
+    2300312: nBase 134
+    2300314: nBase 135
+    2300316: nBase 136
+    2300318: nBase 137
+    2300320: nBase 138
+    2300322: nBase 139
+    2300324: nBase 14
+    2300326: nBase 140
+    2300328: nBase 141
+    2300330: nBase 142
+    2300332: nBase 143
+    2300334: nBase 144
+    2300336: nBase 145
+    2300338: nBase 146
+    2300340: nBase 147
+    2300342: nBase 148
+    2300344: nBase 149
+    2300346: nBase 15
+    2300348: nBase 150
+    2300350: nBase 151
+    2300352: nBase 152
+    2300354: nBase 153
+    2300356: nBase 154
+    2300358: nBase 155
+    2300360: nBase 16
+    2300362: nBase 17
+    2300364: nBase 18
+    2300366: nBase 19
+    2300368: nBase 2
+    2300370: nBase 20
+    2300372: nBase 21
+    2300374: nBase 22
+    2300376: nBase 23
+    2300378: nBase 24
+    2300380: nBase 25
+    2300382: nBase 26
+    2300384: nBase 27
+    2300386: nBase 28
+    2300388: nBase 29
+    2300390: nBase 3
+    2300392: nBase 30
+    2300394: nBase 31
+    2300396: nBase 32
+    2300398: nBase 33
+    2300400: nBase 34
+    2300402: nBase 35
+    2300404: nBase 36
+    2300406: nBase 37
+    2300408: nBase 38
+    2300410: nBase 39
+    2300412: nBase 4
+    2300414: nBase 40
+    2300416: nBase 41
+    2300418: nBase 42
+    2300420: nBase 43
+    2300422: nBase 44
+    2300424: nBase 45
+    2300426: nBase 46
+    2300428: nBase 47
+    2300430: nBase 48
+    2300432: nBase 49
+    2300434: nBase 5
+    2300436: nBase 50
+    2300438: nBase 51
+    2300440: nBase 52
+    2300442: nBase 53
+    2300444: nBase 54
+    2300446: nBase 55
+    2300448: nBase 56
+    2300450: nBase 57
+    2300452: nBase 58
+    2300454: nBase 59
+    2300456: nBase 6
+    2300458: nBase 60
+    2300460: nBase 61
+    2300462: nBase 62
+    2300464: nBase 63
+    2300466: nBase 64
+    2300468: nBase 65
+    2300470: nBase 66
+    2300472: nBase 67
+    2300474: nBase 68
+    2300476: nBase 69
+    2300478: nBase 7
+    2300480: nBase 70
+    2300482: nBase 71
+    2300484: nBase 72
+    2300486: nBase 73
+    2300488: nBase 74
+    2300490: nBase 75
+    2300492: nBase 76
+    2300494: nBase 77
+    2300496: nBase 78
+    2300498: nBase 79
+    2300500: nBase 8
+    2300502: nBase 80
+    2300504: nBase 81
+    2300506: nBase 82
+    2300508: nBase 83
+    2300510: nBase 84
+    2300512: nBase 85
+    2300514: nBase 86
+    2300516: nBase 87
+    2300518: nBase 88
+    2300520: nBase 89
+    2300522: nBase 9
+    2300524: nBase 90
+    2300526: nBase 91
+    2300528: nBase 92
+    2300530: nBase 93
+    2300532: nBase 94
+    2300534: nBase 95
+    2300536: nBase 96
+    2300538: nBase 97
+    2300540: nBase 98
+    2300542: nBase 99
+    3300000: 113
+    3300002: 114
+    3300004: 115
+    3300006: 116
+    3300008: 117
+    3300010: 118
+    3300012: 119
+    3300014: 120
+    3300016: 121
+    3300018: 122
+    3300020: 123
+    3300022: 124
+    3300024: 125
+    3300026: 126
+    3300028: 127
+    3300030: 128
+    3300032: 129
+    3300034: 130
+    3300036: 131
+    3300038: 132
+    3300040: 133
+    3300042: 134
+    3300044: 135
+    3300046: 136
+    3300048: 137
+    3300050: 138
+    3300052: 139
+    3300054: 140
+    3300056: 141
+    3300058: 142
+    3300060: 143
+    3300062: 144
+    3300064: 145
+    3300066: 146
+    3300068: 147
+    3300070: 148
+    3300072: 149
+    3300074: 150
+    3300076: 151
+    3300078: 152
+    3300080: 153
+    3300082: 154
+    3300084: 155
+    3300086: 156
+    3300088: 157
+    3300090: 158
+    3300092: 159
+    3300094: 160
+    3300096: 161
+    3300098: 162
+    3300100: 163
+    3300102: 164
+    3300104: 165
+    3300106: 166
+    3300108: 167
+    3300110: 168
+    3300112: 169
+    3300114: 170
+    3300116: 171
+    3300118: 172
+    3300120: basePlatform
+    3300122: Bk_Boost
+    3300124: Bk_Boost 1
+    3300126: Bk_Boost 2
+    3300128: Bk_Boost 3
+    3300130: Bk_Boost 4
+    3300132: Bk_Boost 5
+    3300134: Bk_Boost 6
+    3300136: Bk_burning
+    3300138: Bk_burning 1
+    3300140: Bk_burning 10
+    3300142: Bk_burning 11
+    3300144: Bk_burning 12
+    3300146: Bk_burning 13
+    3300148: Bk_burning 14
+    3300150: Bk_burning 15
+    3300152: Bk_burning 16
+    3300154: Bk_burning 17
+    3300156: Bk_burning 18
+    3300158: Bk_burning 19
+    3300160: Bk_burning 2
+    3300162: Bk_burning 20
+    3300164: Bk_burning 21
+    3300166: Bk_burning 22
+    3300168: Bk_burning 23
+    3300170: Bk_burning 24
+    3300172: Bk_burning 25
+    3300174: Bk_burning 26
+    3300176: Bk_burning 27
+    3300178: Bk_burning 28
+    3300180: Bk_burning 29
+    3300182: Bk_burning 3
+    3300184: Bk_burning 30
+    3300186: Bk_burning 31
+    3300188: Bk_burning 32
+    3300190: Bk_burning 4
+    3300192: Bk_burning 5
+    3300194: Bk_burning 6
+    3300196: Bk_burning 7
+    3300198: Bk_burning 8
+    3300200: Bk_burning 9
+    3300202: Bk_Oxygen
+    3300204: Bk_Oxygen 1
+    3300206: Bk_Oxygen 10
+    3300208: Bk_Oxygen 11
+    3300210: Bk_Oxygen 12
+    3300212: Bk_Oxygen 13
+    3300214: Bk_Oxygen 14
+    3300216: Bk_Oxygen 15
+    3300218: Bk_Oxygen 2
+    3300220: Bk_Oxygen 3
+    3300222: Bk_Oxygen 4
+    3300224: Bk_Oxygen 5
+    3300226: Bk_Oxygen 6
+    3300228: Bk_Oxygen 7
+    3300230: Bk_Oxygen 8
+    3300232: Bk_Oxygen 9
+    3300234: nBase 1
+    3300236: nBase 10
+    3300238: nBase 100
+    3300240: nBase 101
+    3300242: nBase 102
+    3300244: nBase 103
+    3300246: nBase 104
+    3300248: nBase 105
+    3300250: nBase 106
+    3300252: nBase 107
+    3300254: nBase 108
+    3300256: nBase 109
+    3300258: nBase 11
+    3300260: nBase 110
+    3300262: nBase 111
+    3300264: nBase 112
+    3300266: nBase 113
+    3300268: nBase 114
+    3300270: nBase 115
+    3300272: nBase 116
+    3300274: nBase 117
+    3300276: nBase 118
+    3300278: nBase 119
+    3300280: nBase 12
+    3300282: nBase 120
+    3300284: nBase 121
+    3300286: nBase 122
+    3300288: nBase 123
+    3300290: nBase 124
+    3300292: nBase 125
+    3300294: nBase 126
+    3300296: nBase 127
+    3300298: nBase 128
+    3300300: nBase 129
+    3300302: nBase 13
+    3300304: nBase 130
+    3300306: nBase 131
+    3300308: nBase 132
+    3300310: nBase 133
+    3300312: nBase 134
+    3300314: nBase 135
+    3300316: nBase 136
+    3300318: nBase 137
+    3300320: nBase 138
+    3300322: nBase 139
+    3300324: nBase 14
+    3300326: nBase 140
+    3300328: nBase 141
+    3300330: nBase 142
+    3300332: nBase 143
+    3300334: nBase 144
+    3300336: nBase 145
+    3300338: nBase 146
+    3300340: nBase 147
+    3300342: nBase 148
+    3300344: nBase 149
+    3300346: nBase 15
+    3300348: nBase 150
+    3300350: nBase 151
+    3300352: nBase 152
+    3300354: nBase 153
+    3300356: nBase 154
+    3300358: nBase 155
+    3300360: nBase 16
+    3300362: nBase 17
+    3300364: nBase 18
+    3300366: nBase 19
+    3300368: nBase 2
+    3300370: nBase 20
+    3300372: nBase 21
+    3300374: nBase 22
+    3300376: nBase 23
+    3300378: nBase 24
+    3300380: nBase 25
+    3300382: nBase 26
+    3300384: nBase 27
+    3300386: nBase 28
+    3300388: nBase 29
+    3300390: nBase 3
+    3300392: nBase 30
+    3300394: nBase 31
+    3300396: nBase 32
+    3300398: nBase 33
+    3300400: nBase 34
+    3300402: nBase 35
+    3300404: nBase 36
+    3300406: nBase 37
+    3300408: nBase 38
+    3300410: nBase 39
+    3300412: nBase 4
+    3300414: nBase 40
+    3300416: nBase 41
+    3300418: nBase 42
+    3300420: nBase 43
+    3300422: nBase 44
+    3300424: nBase 45
+    3300426: nBase 46
+    3300428: nBase 47
+    3300430: nBase 48
+    3300432: nBase 49
+    3300434: nBase 5
+    3300436: nBase 50
+    3300438: nBase 51
+    3300440: nBase 52
+    3300442: nBase 53
+    3300444: nBase 54
+    3300446: nBase 55
+    3300448: nBase 56
+    3300450: nBase 57
+    3300452: nBase 58
+    3300454: nBase 59
+    3300456: nBase 6
+    3300458: nBase 60
+    3300460: nBase 61
+    3300462: nBase 62
+    3300464: nBase 63
+    3300466: nBase 64
+    3300468: nBase 65
+    3300470: nBase 66
+    3300472: nBase 67
+    3300474: nBase 68
+    3300476: nBase 69
+    3300478: nBase 7
+    3300480: nBase 70
+    3300482: nBase 71
+    3300484: nBase 72
+    3300486: nBase 73
+    3300488: nBase 74
+    3300490: nBase 75
+    3300492: nBase 76
+    3300494: nBase 77
+    3300496: nBase 78
+    3300498: nBase 79
+    3300500: nBase 8
+    3300502: nBase 80
+    3300504: nBase 81
+    3300506: nBase 82
+    3300508: nBase 83
+    3300510: nBase 84
+    3300512: nBase 85
+    3300514: nBase 86
+    3300516: nBase 87
+    3300518: nBase 88
+    3300520: nBase 89
+    3300522: nBase 9
+    3300524: nBase 90
+    3300526: nBase 91
+    3300528: nBase 92
+    3300530: nBase 93
+    3300532: nBase 94
+    3300534: nBase 95
+    3300536: nBase 96
+    3300538: nBase 97
+    3300540: nBase 98
+    3300542: nBase 99
+    4300000: basePlatform
+    4300002: 113
+    4300004: 114
+    4300006: 115
+    4300008: 116
+    4300010: 117
+    4300012: 118
+    4300014: 119
+    4300016: 120
+    4300018: 121
+    4300020: 122
+    4300022: 123
+    4300024: 124
+    4300026: 125
+    4300028: 126
+    4300030: 127
+    4300032: 128
+    4300034: 129
+    4300036: 130
+    4300038: 131
+    4300040: 132
+    4300042: 133
+    4300044: 134
+    4300046: 135
+    4300048: 136
+    4300050: 137
+    4300052: 138
+    4300054: 139
+    4300056: 140
+    4300058: 141
+    4300060: 142
+    4300062: 143
+    4300064: 144
+    4300066: 145
+    4300068: 146
+    4300070: 147
+    4300072: 148
+    4300074: 149
+    4300076: 150
+    4300078: 151
+    4300080: 152
+    4300082: 153
+    4300084: 154
+    4300086: 155
+    4300088: 156
+    4300090: 157
+    4300092: 158
+    4300094: 159
+    4300096: 160
+    4300098: 161
+    4300100: 162
+    4300102: 163
+    4300104: 164
+    4300106: 165
+    4300108: 166
+    4300110: 167
+    4300112: 168
+    4300114: 169
+    4300116: 170
+    4300118: 171
+    4300120: 172
+    4300122: Bk_Boost
+    4300124: Bk_Boost
+    4300126: Bk_Boost
+    4300128: Bk_Boost
+    4300130: Bk_Boost
+    4300132: Bk_Boost
+    4300134: Bk_Boost
+    4300136: Bk_burning
+    4300138: Bk_burning
+    4300140: Bk_burning
+    4300142: Bk_burning
+    4300144: Bk_burning
+    4300146: Bk_burning
+    4300148: Bk_burning
+    4300150: Bk_burning
+    4300152: Bk_burning
+    4300154: Bk_burning
+    4300156: Bk_burning
+    4300158: Bk_burning
+    4300160: Bk_burning
+    4300162: Bk_burning
+    4300164: Bk_burning
+    4300166: Bk_burning
+    4300168: Bk_burning
+    4300170: Bk_burning
+    4300172: Bk_burning
+    4300174: Bk_burning
+    4300176: Bk_burning
+    4300178: Bk_burning
+    4300180: Bk_burning
+    4300182: Bk_burning
+    4300184: Bk_burning
+    4300186: Bk_burning
+    4300188: Bk_burning
+    4300190: Bk_burning
+    4300192: Bk_burning
+    4300194: Bk_burning
+    4300196: Bk_burning
+    4300198: Bk_burning
+    4300200: Bk_burning
+    4300202: Bk_Oxygen
+    4300204: Bk_Oxygen
+    4300206: Bk_Oxygen
+    4300208: Bk_Oxygen
+    4300210: Bk_Oxygen
+    4300212: Bk_Oxygen
+    4300214: Bk_Oxygen
+    4300216: Bk_Oxygen
+    4300218: Bk_Oxygen
+    4300220: Bk_Oxygen
+    4300222: Bk_Oxygen
+    4300224: Bk_Oxygen
+    4300226: Bk_Oxygen
+    4300228: Bk_Oxygen
+    4300230: Bk_Oxygen
+    4300232: Bk_Oxygen
+    4300234: nBase
+    4300236: nBase
+    4300238: nBase
+    4300240: nBase
+    4300242: nBase
+    4300244: nBase
+    4300246: nBase
+    4300248: nBase
+    4300250: nBase
+    4300252: nBase
+    4300254: nBase
+    4300256: nBase
+    4300258: nBase
+    4300260: nBase
+    4300262: nBase
+    4300264: nBase
+    4300266: nBase
+    4300268: nBase
+    4300270: nBase
+    4300272: nBase
+    4300274: nBase
+    4300276: nBase
+    4300278: nBase
+    4300280: nBase
+    4300282: nBase
+    4300284: nBase
+    4300286: nBase
+    4300288: nBase
+    4300290: nBase
+    4300292: nBase
+    4300294: nBase
+    4300296: nBase
+    4300298: nBase
+    4300300: nBase
+    4300302: nBase
+    4300304: nBase
+    4300306: nBase
+    4300308: nBase
+    4300310: nBase
+    4300312: nBase
+    4300314: nBase
+    4300316: nBase
+    4300318: nBase
+    4300320: nBase
+    4300322: nBase
+    4300324: nBase
+    4300326: nBase
+    4300328: nBase
+    4300330: nBase
+    4300332: nBase
+    4300334: nBase
+    4300336: nBase
+    4300338: nBase
+    4300340: nBase
+    4300342: nBase
+    4300344: nBase
+    4300346: nBase
+    4300348: nBase
+    4300350: nBase
+    4300352: nBase
+    4300354: nBase
+    4300356: nBase
+    4300358: nBase
+    4300360: nBase
+    4300362: nBase
+    4300364: nBase
+    4300366: nBase
+    4300368: nBase
+    4300370: nBase
+    4300372: nBase
+    4300374: nBase
+    4300376: nBase
+    4300378: nBase
+    4300380: nBase
+    4300382: nBase
+    4300384: nBase
+    4300386: nBase
+    4300388: nBase
+    4300390: nBase
+    4300392: nBase
+    4300394: nBase
+    4300396: nBase
+    4300398: nBase
+    4300400: nBase
+    4300402: nBase
+    4300404: nBase
+    4300406: nBase
+    4300408: nBase
+    4300410: nBase
+    4300412: nBase
+    4300414: nBase
+    4300416: nBase
+    4300418: nBase
+    4300420: nBase
+    4300422: nBase
+    4300424: nBase
+    4300426: nBase
+    4300428: nBase
+    4300430: nBase
+    4300432: nBase
+    4300434: nBase
+    4300436: nBase
+    4300438: nBase
+    4300440: nBase
+    4300442: nBase
+    4300444: nBase
+    4300446: nBase
+    4300448: nBase
+    4300450: nBase
+    4300452: nBase
+    4300454: nBase
+    4300456: nBase
+    4300458: nBase
+    4300460: nBase
+    4300462: nBase
+    4300464: nBase
+    4300466: nBase
+    4300468: nBase
+    4300470: nBase
+    4300472: nBase
+    4300474: nBase
+    4300476: nBase
+    4300478: nBase
+    4300480: nBase
+    4300482: nBase
+    4300484: nBase
+    4300486: nBase
+    4300488: nBase
+    4300490: nBase
+    4300492: nBase
+    4300494: nBase
+    4300496: nBase
+    4300498: nBase
+    4300500: nBase
+    4300502: nBase
+    4300504: nBase
+    4300506: nBase
+    4300508: nBase
+    4300510: nBase
+    4300512: nBase
+    4300514: nBase
+    4300516: nBase
+    4300518: nBase
+    4300520: nBase
+    4300522: nBase
+    4300524: nBase
+    4300526: nBase
+    4300528: nBase
+    4300530: nBase
+    4300532: nBase
+    4300534: nBase
+    4300536: nBase
+    4300538: nBase
+    4300540: nBase
+    4300542: nBase
+    6400000: 113
+    6400002: 114
+    6400004: 115
+    6400006: 116
+    6400008: 117
+    6400010: 118
+    6400012: 119
+    6400014: 120
+    6400016: 121
+    6400018: 122
+    6400020: 123
+    6400022: 124
+    6400024: 125
+    6400026: 126
+    6400028: 127
+    6400030: 128
+    6400032: 129
+    6400034: 130
+    6400036: 131
+    6400038: 132
+    6400040: 133
+    6400042: 134
+    6400044: 135
+    6400046: 136
+    6400048: 137
+    6400050: 138
+    6400052: 139
+    6400054: 140
+    6400056: 141
+    6400058: 142
+    6400060: 143
+    6400062: 144
+    6400064: 145
+    6400066: 146
+    6400068: 147
+    6400070: 148
+    6400072: 149
+    6400074: 150
+    6400076: 151
+    6400078: 152
+    6400080: 153
+    6400082: 154
+    6400084: 155
+    6400086: 156
+    6400088: 157
+    6400090: 158
+    6400092: 159
+    6400094: 160
+    6400096: 161
+    6400098: 162
+    6400100: 163
+    6400102: 164
+    6400104: 165
+    6400106: 166
+    6400108: 167
+    6400110: 168
+    6400112: 169
+    6400114: 170
+    6400116: 171
+    6400118: 172
+    6400120: basePlatform
+    6400122: Bk_Boost
+    6400124: Bk_Boost 1
+    6400126: Bk_Boost 2
+    6400128: Bk_Boost 3
+    6400130: Bk_Boost 4
+    6400132: Bk_Boost 5
+    6400134: Bk_Boost 6
+    6400136: Bk_burning
+    6400138: Bk_burning 1
+    6400140: Bk_burning 10
+    6400142: Bk_burning 11
+    6400144: Bk_burning 12
+    6400146: Bk_burning 13
+    6400148: Bk_burning 14
+    6400150: Bk_burning 15
+    6400152: Bk_burning 16
+    6400154: Bk_burning 17
+    6400156: Bk_burning 18
+    6400158: Bk_burning 19
+    6400160: Bk_burning 2
+    6400162: Bk_burning 20
+    6400164: Bk_burning 21
+    6400166: Bk_burning 22
+    6400168: Bk_burning 23
+    6400170: Bk_burning 24
+    6400172: Bk_burning 25
+    6400174: Bk_burning 26
+    6400176: Bk_burning 27
+    6400178: Bk_burning 28
+    6400180: Bk_burning 29
+    6400182: Bk_burning 3
+    6400184: Bk_burning 30
+    6400186: Bk_burning 31
+    6400188: Bk_burning 32
+    6400190: Bk_burning 4
+    6400192: Bk_burning 5
+    6400194: Bk_burning 6
+    6400196: Bk_burning 7
+    6400198: Bk_burning 8
+    6400200: Bk_burning 9
+    6400202: Bk_Oxygen
+    6400204: Bk_Oxygen 1
+    6400206: Bk_Oxygen 10
+    6400208: Bk_Oxygen 11
+    6400210: Bk_Oxygen 12
+    6400212: Bk_Oxygen 13
+    6400214: Bk_Oxygen 14
+    6400216: Bk_Oxygen 15
+    6400218: Bk_Oxygen 2
+    6400220: Bk_Oxygen 3
+    6400222: Bk_Oxygen 4
+    6400224: Bk_Oxygen 5
+    6400226: Bk_Oxygen 6
+    6400228: Bk_Oxygen 7
+    6400230: Bk_Oxygen 8
+    6400232: Bk_Oxygen 9
+    6400234: nBase 1
+    6400236: nBase 10
+    6400238: nBase 100
+    6400240: nBase 101
+    6400242: nBase 102
+    6400244: nBase 103
+    6400246: nBase 104
+    6400248: nBase 105
+    6400250: nBase 106
+    6400252: nBase 107
+    6400254: nBase 108
+    6400256: nBase 109
+    6400258: nBase 11
+    6400260: nBase 110
+    6400262: nBase 111
+    6400264: nBase 112
+    6400266: nBase 113
+    6400268: nBase 114
+    6400270: nBase 115
+    6400272: nBase 116
+    6400274: nBase 117
+    6400276: nBase 118
+    6400278: nBase 119
+    6400280: nBase 12
+    6400282: nBase 120
+    6400284: nBase 121
+    6400286: nBase 122
+    6400288: nBase 123
+    6400290: nBase 124
+    6400292: nBase 125
+    6400294: nBase 126
+    6400296: nBase 127
+    6400298: nBase 128
+    6400300: nBase 129
+    6400302: nBase 13
+    6400304: nBase 130
+    6400306: nBase 131
+    6400308: nBase 132
+    6400310: nBase 133
+    6400312: nBase 134
+    6400314: nBase 135
+    6400316: nBase 136
+    6400318: nBase 137
+    6400320: nBase 138
+    6400322: nBase 139
+    6400324: nBase 14
+    6400326: nBase 140
+    6400328: nBase 141
+    6400330: nBase 142
+    6400332: nBase 143
+    6400334: nBase 144
+    6400336: nBase 145
+    6400338: nBase 146
+    6400340: nBase 147
+    6400342: nBase 148
+    6400344: nBase 149
+    6400346: nBase 15
+    6400348: nBase 150
+    6400350: nBase 151
+    6400352: nBase 152
+    6400354: nBase 153
+    6400356: nBase 154
+    6400358: nBase 155
+    6400360: nBase 16
+    6400362: nBase 17
+    6400364: nBase 18
+    6400366: nBase 19
+    6400368: nBase 2
+    6400370: nBase 20
+    6400372: nBase 21
+    6400374: nBase 22
+    6400376: nBase 23
+    6400378: nBase 24
+    6400380: nBase 25
+    6400382: nBase 26
+    6400384: nBase 27
+    6400386: nBase 28
+    6400388: nBase 29
+    6400390: nBase 3
+    6400392: nBase 30
+    6400394: nBase 31
+    6400396: nBase 32
+    6400398: nBase 33
+    6400400: nBase 34
+    6400402: nBase 35
+    6400404: nBase 36
+    6400406: nBase 37
+    6400408: nBase 38
+    6400410: nBase 39
+    6400412: nBase 4
+    6400414: nBase 40
+    6400416: nBase 41
+    6400418: nBase 42
+    6400420: nBase 43
+    6400422: nBase 44
+    6400424: nBase 45
+    6400426: nBase 46
+    6400428: nBase 47
+    6400430: nBase 48
+    6400432: nBase 49
+    6400434: nBase 5
+    6400436: nBase 50
+    6400438: nBase 51
+    6400440: nBase 52
+    6400442: nBase 53
+    6400444: nBase 54
+    6400446: nBase 55
+    6400448: nBase 56
+    6400450: nBase 57
+    6400452: nBase 58
+    6400454: nBase 59
+    6400456: nBase 6
+    6400458: nBase 60
+    6400460: nBase 61
+    6400462: nBase 62
+    6400464: nBase 63
+    6400466: nBase 64
+    6400468: nBase 65
+    6400470: nBase 66
+    6400472: nBase 67
+    6400474: nBase 68
+    6400476: nBase 69
+    6400478: nBase 7
+    6400480: nBase 70
+    6400482: nBase 71
+    6400484: nBase 72
+    6400486: nBase 73
+    6400488: nBase 74
+    6400490: nBase 75
+    6400492: nBase 76
+    6400494: nBase 77
+    6400496: nBase 78
+    6400498: nBase 79
+    6400500: nBase 8
+    6400502: nBase 80
+    6400504: nBase 81
+    6400506: nBase 82
+    6400508: nBase 83
+    6400510: nBase 84
+    6400512: nBase 85
+    6400514: nBase 86
+    6400516: nBase 87
+    6400518: nBase 88
+    6400520: nBase 89
+    6400522: nBase 9
+    6400524: nBase 90
+    6400526: nBase 91
+    6400528: nBase 92
+    6400530: nBase 93
+    6400532: nBase 94
+    6400534: nBase 95
+    6400536: nBase 96
+    6400538: nBase 97
+    6400540: nBase 98
+    6400542: nBase 99
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,20 @@
+<html>
+<head><title>SKYIMG documentation</title></head>
+<body>
+<p style="font-size: 1.5em; color: #ff0000;">SkyImg 0.1</p>
+<p style="font-size: 1.2em; color: #0000dd;">Using SkyImg</p>
+<p>As you might know, SkyImg is a simple command-line tool (compiled in Windows 7 environment) for converting SkyRoads image files to BMP and back again. The program doesn't work correctly -- crash! -- for some images, likely because it doesn't use enought memory, I haven't bothered trying to figure it out. Likewise, some files it creates can be too large for SkyRoads to handle, because this version (0.1) doesn't do proper compression. But it should work 100% right for new world backgrounds and player sprites.</p>
+<p style="font-size: 1.2em; color: #0000dd;">LZS to BMP</p>
+<p>To convert a SkyRoads image to BMP run the following:</p>
+<p><i>skyimg lzs2bmp WORLD1.LZS world1.bmp</i></p>
+<p>Replace WORLD1.LZS with the file of your choice and world1.bmp with the name you want for the resulting BMP.</p>
+<p style="font-size: 1.2em; color: #0000dd;">BMP to LZS</p>
+<p>To convert a BMP (256-color Windows bitmap) to SkyRoads image format run the following:</p>
+<p><i>skyimg bmp2lzs world newworld.bmp WORLD0.LZS</i></p>
+<p>The argument 'world' here tells that you are going to create a new world background. Other possible arguments are 'cars' and 'gomenu'.</p>
+<p>Replace newworld.bmp with the file of your choice and WORLD0.LZS with the name you want for the resulting SkyRoads image.</p>
+<p style="font-size: 1.2em; color: #0000dd;">Notes</p>
+<p>This tool was essentially made for changing the world backgrounds (WORLDx.LZS). These images are 320x138 pixels and use 114 colors and the first color (index 0) should always be 0,0,0 (black) -- even if you don't use the color in your image have it in the palette. When dealing with BMP to LZS conversion for world backrounds, this editor takes to account only the 114 first colors of the 256-color BMP that it uses as input.</p>
+<p>As this tool changes LZS to BMP, it multiplies every color value by 4 to make them appear more or less right in the 8-bit RGB system. As BMP is changed to LZS, every color value is divided by 4 to get the 6-bit color value. You don't need to do anything.</p>
+</body>
+</html>
